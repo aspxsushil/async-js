@@ -27,12 +27,12 @@ const createPosts = () => {
 };
 
 
-const getPosts = ()=>{
-    posts.forEach((x)=>{
-           console.log(x.name);
+// const getPosts = ()=>{
+//     posts.forEach((x)=>{
+//            console.log(x.name);
 
-    });
-}
+//     });
+// }
 
 // createPosts().then(data=>{
 //     data.forEach((x)=>{
